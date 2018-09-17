@@ -1,0 +1,308 @@
+D:\XNA Game\09.04.16\Skir Racer\Skir Racer\Skir_Racer\bin\x86\Debug\Content\skier.xnb
+D:\XNA Game\09.04.16\Skir Racer\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\Skir Racer\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\Skir Racer\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+D:\XNA Game\09.04.16\Skir Racer\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA Game\09.04.16\Skir Racer\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\Skir Racer\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\skier.xnb
+D:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\bluef.xnb
+D:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\redf.xnb
+D:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\snowbal.xnb
+D:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\cheese.xnb
+D:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\Score.xnb
+D:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\Lives.xnb
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\skier.xnb
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\bluef.xnb
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\redf.xnb
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\snowbal.xnb
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\cheese.xnb
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\Score.xnb
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\Lives.xnb
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\XNA Game\09.04.16\13.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\XNA Game\09.04.16\15.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\skier.xnb
+D:\XNA Game\09.04.16\15.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\snowbal.xnb
+D:\XNA Game\09.04.16\15.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\cheese.xnb
+D:\XNA Game\09.04.16\15.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\Score.xnb
+D:\XNA Game\09.04.16\15.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\Lives.xnb
+D:\XNA Game\09.04.16\15.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\15.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\15.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+D:\XNA Game\09.04.16\15.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA Game\09.04.16\15.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\15.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\15.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\flag.xnb
+D:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Content\skier.xnb
+D:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Content\snowbal.xnb
+D:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Content\cheese.xnb
+D:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Content\flag.xnb
+D:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+D:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Content\font.xnb
+D:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Content\snowEffect.xnb
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Content\skier.xnb
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Content\snowbal.xnb
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Content\cheese.xnb
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Content\flag.xnb
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Content\snowEffect.xnb
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Content\font.xnb
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+E:\XNA Game\09.04.16\17.04.2016 -\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\skier.xnb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowbal.xnb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\cheese.xnb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\flag.xnb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowEffect.xnb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\font.xnb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\click.xnb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\snowball.xnb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\cheese.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\skier.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowbal.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\cheese.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\flag.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowEffect.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\font.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\click.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\snowball.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\cheese.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\down.xnb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\left.xnb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\right.xnb
+D:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\up.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\down.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\left.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\right.xnb
+E:\XNA Game\09.04.16\19.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\up.xnb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\skier.xnb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowbal.xnb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\cheese.xnb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\flag.xnb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowEffect.xnb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\left.xnb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\right.xnb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\up.xnb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\font.xnb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\click.xnb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\snowball.xnb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\cheese.xnb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\21.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\skier.xnb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowbal.xnb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\cheese.xnb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\flag.xnb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowEffect.xnb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\left.xnb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\right.xnb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\up.xnb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\font.xnb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\click.xnb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\snowball.xnb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\cheese.xnb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\skier.xnb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowbal.xnb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\cheese.xnb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\flag.xnb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowEffect.xnb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\left.xnb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\right.xnb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\up.xnb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\font.xnb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\click.xnb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\snowball.xnb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\cheese.xnb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+E:\XNA Game\09.04.16\23.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\skier.xnb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowbal.xnb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\cheese.xnb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\flag.xnb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowEffect.xnb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\left.xnb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\right.xnb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\up.xnb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\line.xnb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\font.xnb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\click.xnb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\snowball.xnb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\cheese.xnb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+E:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\skier.xnb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowbal.xnb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\cheese.xnb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\flag.xnb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowEffect.xnb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\left.xnb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\right.xnb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\up.xnb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\line.xnb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\font.xnb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\click.xnb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\snowball.xnb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\cheese.xnb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\29.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\skier.xnb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowbal.xnb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\cheese.xnb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\flag.xnb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowEffect.xnb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\left.xnb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\right.xnb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\up.xnb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\line.xnb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\font.xnb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\click.xnb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\snowball.xnb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\cheese.xnb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.dll
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.xml
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+F:\XNA Game\09.04.16\31.04.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\footPrint.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\skier.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowbal.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\cheese.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\flag.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowEffect.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\left.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\right.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\up.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\line.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\footPrint.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\font.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\click.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\snowball.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\cheese.xnb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+F:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\skier.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowbal.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\cheese.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\flag.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowEffect.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\left.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\right.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\up.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\line.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\footPrint.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\font.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\click.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\snowball.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\cheese.xnb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+E:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\skier.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowbal.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\cheese.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\flag.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowEffect.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\left.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\right.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\up.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\line.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\footPrint.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\font.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\click.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\snowball.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\cheese.xnb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Skir_Racer.pdb
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.csprojResolveAssemblyReference.cache
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.exe
+D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\obj\x86\Debug\Skir_Racer.pdb

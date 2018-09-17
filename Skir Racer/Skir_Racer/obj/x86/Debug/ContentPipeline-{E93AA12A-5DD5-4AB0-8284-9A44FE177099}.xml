@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>graphics\skier.png</Source>
+      <Name>graphics\skier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\skier.xnb</Output>
+      <Time>2016-04-11T19:53:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\snowbal.png</Source>
+      <Name>graphics\snowbal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowbal.xnb</Output>
+      <Time>2016-04-13T16:51:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\cheese.png</Source>
+      <Name>graphics\cheese</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\cheese.xnb</Output>
+      <Time>2016-04-17T12:53:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\flag.png</Source>
+      <Name>graphics\flag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\flag.xnb</Output>
+      <Time>2016-04-17T13:13:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\snowEffect.png</Source>
+      <Name>graphics\snowEffect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\snowEffect.xnb</Output>
+      <Time>2016-04-17T22:09:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\left.png</Source>
+      <Name>graphics\left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\left.xnb</Output>
+      <Time>2016-04-21T21:40:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\right.png</Source>
+      <Name>graphics\right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\right.xnb</Output>
+      <Time>2016-04-21T21:41:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\up.png</Source>
+      <Name>graphics\up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\up.xnb</Output>
+      <Time>2016-04-21T21:42:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\line.png</Source>
+      <Name>graphics\line</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\line.xnb</Output>
+      <Time>2016-04-29T18:33:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\footPrint.png</Source>
+      <Name>graphics\footPrint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\footPrint.xnb</Output>
+      <Time>2016-05-01T02:54:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\font.spritefont</Source>
+      <Name>graphics\font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\graphics\font.xnb</Output>
+      <Time>2016-04-17T17:00:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\click.wav</Source>
+      <Name>sounds\click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\click.xnb</Output>
+      <Time>2016-04-19T00:25:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\snowball.wav</Source>
+      <Name>sounds\snowball</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\snowball.xnb</Output>
+      <Time>2016-04-19T00:34:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\cheese.wav</Source>
+      <Name>sounds\cheese</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\sounds\cheese.xnb</Output>
+      <Time>2016-04-19T00:35:10+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E93AA12A-5DD5-4AB0-8284-9A44FE177099}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_RacerContent\</RootDirectory>
+      <LoggerRootDirectory>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\XNA Game\09.04.16\01.05.2016\Skir Racer\Skir_Racer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-08-28T13:06:00.9568646+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
